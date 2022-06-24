@@ -80,9 +80,9 @@ button{
     border: none;
 }
 
-button:hover{opacity: .8;}
+button:hover{opacity: 0.8;}
 
-button:active{opacity: .5;}
+button:active{opacity: 0.5;}
 
 @media screen and (max-width: 900px){
     .section-a{
